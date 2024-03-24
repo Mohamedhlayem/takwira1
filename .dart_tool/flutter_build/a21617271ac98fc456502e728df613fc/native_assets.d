@@ -1,0 +1,1 @@
+ C:\\Users\\USER\\Desktop\\flutter_projects\\koora\\.dart_tool\\flutter_build\\a21617271ac98fc456502e728df613fc\\native_assets.yaml: 

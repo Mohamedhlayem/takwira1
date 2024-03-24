@@ -1,0 +1,80 @@
+{
+   "checksum": "98479953e138180803e391516523f163",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13262127970305314",
+            "date_last_used": "0",
+            "guid": "d5dda89f-ee13-4aa6-b8b8-444427be33da",
+            "id": "7",
+            "name": "Téléchargements",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "chrome://downloads/"
+         }, {
+            "date_added": "13278082901682960",
+            "date_last_used": "0",
+            "guid": "f10dd05c-1d96-41f0-b75b-76589b0f86c4",
+            "id": "8",
+            "name": "Gmail",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13278082901683863",
+            "date_last_used": "0",
+            "guid": "c6c4e3ad-93a1-4f53-a068-19a4d3848214",
+            "id": "9",
+            "name": "YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13278082919882403",
+            "date_last_used": "0",
+            "guid": "452e0ed3-7ead-46b7-a54e-740bf13904ab",
+            "id": "10",
+            "name": "Traduire",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://translate.google.com/"
+         } ],
+         "date_added": "13354399681445558",
+         "date_last_used": "0",
+         "date_modified": "13278082919882403",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13354399681445559",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13354399681445560",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCPuliR+OAQAAEgAqGEpsMEhmMHJUd2ZnRjRlVm50cGJjOWc9PUgDoAYMEokBCAMShAEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJDM0ZTIzNGYyLWQ0MTItNTUzNC04YjgzLTgzMTA4Yzc5Y2VmZhgAIAAoADCZ04yYxS84/7uI/u8vQP+7iP7vL0oceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAASqAEICRKjAQoccW4vdmFMQmlpNG1HSWNKQ2NCNGlpenh3blFVPRIkYzZjNGUzYWQtOTNhMS00ZjUzLWEwNjgtMTlhNGQzODQ4MjE0GAAgAigCMPnLpvzhMTjswoj+7y9A2sCm/OExShw5cnJ1dTBVc09OOXZVcTRGUld4RHU4RzJ2Y1k9Wh8iHdNVbEF5TG1NeG55NStRRUtkUHEzOXVkaS80Z1k9ZTj5OTMSqAEICBKjAQocd0J0UGhYWWdTTmczeW9tdWlQMkIyYjFMWmZFPRIkZjEwZGQwNWMtMWQ5Ni00MWYwLWI3NWItNzY1ODliMGY4NmM0GAAgAigCMPjLpvzhMTjfwYj+7y9A2sCm/OExShxmWW1yOHNpQ0hpUExxR3JVUjdVY2FKbzNUcjQ9Wh8iHaZGU05ZMEZYeGx2cERqZldkc1dBZFNzd3cxQ2s9ZXunQHESiQEIAhKEAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkZWM3NGQ5YjEtOGIxMS01ZTdkLTg1YjItY2M3MjAxOGU4ODUzGAAgACgAMJnTjJjFLzi+vIj+7y9AvryI/u8vShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABKJAQgBEoQBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiRhMDY2ODQ2MS0zZTgwLTVhYzYtYWY5ZC1jOWRlNmUzNWM3YmMYACAAKAAwmdOMmMUvOK68iP7vL0CuvIj+7y9KHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEqgBCAoSowEKHHFjSG90cFcyZUtpZVhrODN6Tnl3WFpzVW9hRT0SJDQ1MmUwZWQzLTdlYWQtNDZiNy1hNTRlLTc0MGJmMTM5MDRhYhgAIAIoAjD3y6b84TE4ycOI/u8vQNrApvzhMUocOVFMRk5PdU9LYTBnaDBCUDVkUTJETDMwZE5vPVofIh3pTkxxQ2lNN3lzeVlBVkhmOENqbG5tLzNyeCtRPWXFz5ABEqcBCAcSogEKHHJHb2tuWWF4MWJiS1dCNlVWdVBJNWFScC9raz0SJGQ1ZGRhODlmLWVlMTMtNGFhNi1iOGI4LTQ0NDQyN2JlMzNkYRgAIAAoADC+9ob+7y84rcKI/u8vQK3CiP7vL0ocK0t0ajYzUkdPN0dGNnNCQUducytwQVlDUVZ3PVoeIhxMTngzcXh1eFdEWS9HcVhJMmhhRmpYUjczUnc9ZQAAAAAwADgA",
+   "version": 1
+}
